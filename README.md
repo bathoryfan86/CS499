@@ -10,7 +10,7 @@ My name is Brandon Dolan and welcome to my CS 499 Capstone final project overvie
 
 CONTENTS INCLUDED IN THIS EPORTFOLIO: 
 
-ORIGINAL CODE REVIEW 
+[ORIGINAL CODE REVIEW](https://www.youtube.com/watch?v=tURClypn7LE) 
 
 JOURNALS 2-6
 
