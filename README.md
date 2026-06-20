@@ -1,8 +1,6 @@
-# CS499
+# CS499 CAPSTONE EPORTFOLIO
 
-CS499 CAPSTONE EPORTFOLIO
-
-INTRODUCTION
+**INTRODUCTION**
 
 My name is Brandon Dolan and welcome to my CS 499 Capstone final project overview. This specific Capstone will focus on the Weight Tracker Application from CS360 and will use the enhanced artifacts that are required. I have uploaded various assignments from this course to give a full outline of what has been accomplished. 
 
